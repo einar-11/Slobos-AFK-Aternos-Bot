@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Chris",
+    "username": "",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "esmiringhoy-Rhop.aternos.me",
-    "port": 59839,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Walang kanin buseng?",
-        "Kamusta ang buhay-buhay"
+        "",
+        ""
       ]
     },
     "chat-log": true,
